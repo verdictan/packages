@@ -7,7 +7,8 @@ The APT repository supports `amd64` Debian and Ubuntu systems. It uses the
 `stable` suite and the `main` component.
 
 The RPM repository supports `x86_64` CentOS, RHEL, Fedora, and Amazon Linux
-systems. It uses one distribution-neutral repository for compatible systems.
+2023 systems. It uses one distribution-neutral repository for compatible
+systems.
 
 `ci/scripts/build_linux_package_repositories.sh` performs these actions:
 
