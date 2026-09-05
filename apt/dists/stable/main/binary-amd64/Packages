@@ -4,14 +4,14 @@ Version: 0.1.1-1
 Priority: optional
 Section: utils
 Maintainer: Verdictan <engineering@verdictan.com>
-Installed-Size: 32371
+Installed-Size: 32355
 Depends:
 Filename: pool/main/v/verdictan/verdictan_0.1.1-1_amd64.deb
-Size: 9246004
-MD5sum: d576349a00f2e845d6a9dbb8a55cf30a
-SHA1: 5a0f0bc627b85e19fc85587f5fccf3f518924406
-SHA256: c0724c68a6f1569f0ce7377729b9ba83e17edd2e36eb75a19a76fab8d87d895c
-SHA512: cad0219c0579cd19b378e572ec1233c28ee2018bf14297565b3c2239bd0cb1c82054d76a3e3145a2aa450833c9a675bf4e35ff6e4bd64635701a9fd2579e34ea
+Size: 9246032
+MD5sum: 87eb8ac369dca79a126db1394af29288
+SHA1: bb66b5d269681219346830e9f5b42817139b5ebf
+SHA256: ded2c40f834834710e8c05ba8c64927529d6902e5c13bb78c0dcd15966c32aa8
+SHA512: 92f82af76f41d6d8bd9d1b3145773a34db76b0277396e6568d2a720d1eb10f69d442d2afac441c7429536bb5cdd45417c7655c55915714b78843880a425943e9
 Homepage: https://verdictan.com
 Description: Verdictan AI governance gateway
  Verdictan AI governance gateway — policy enforcement, audit, and control for
