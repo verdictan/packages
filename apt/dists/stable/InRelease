@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Acquire-By-Hash: yes
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 04 Sep 2026 13:15:43 +0000
+Description: Verdictan stable package repository
+Label: Verdictan
+Origin: Verdictan
+Suite: stable
+MD5Sum:
+ a801ef7b95d653ee81a9697df8e9c762              715 main/binary-amd64/Packages
+ 937d0186917bd1969d9b6bed15ff1431              488 main/binary-amd64/Packages.gz
+SHA1:
+ 686d15301a8e6f4ee0ddcfe1d26bc94c333edac6              715 main/binary-amd64/Packages
+ c95b11ba335e11d5f6b0419807303ea7b03b4d7a              488 main/binary-amd64/Packages.gz
+SHA256:
+ 9f26b304269877544eb960be623b4e092f9a2374f58e1520c87582ef426f3c0b              715 main/binary-amd64/Packages
+ 88f50f2d98c62107352617be4a884183eec7d675c6fa90a4bfd1d03b42b011d3              488 main/binary-amd64/Packages.gz
+SHA512:
+ 26daf42ae9914b2d598738824be6c680f5589c36bc3b835772e780da8d45c7f8c4bacc3d36ec59c155ee83df1dc175440d6b85a173846d4b0c37918988689163              715 main/binary-amd64/Packages
+ 1a41425f75093f86ef70e1707c716e4350625704ee304e064ce11d917fa4f00e346c0e35a31dbcc3d4712b983ddaf9310b23324de7dfa3b2e0e943709ad7ddb2              488 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE+6Bbny4eshS/xSui/e1GXxI89RcFAmqb6BIACgkQ/e1GXxI8
+9Rc10hAA2Sfg2rFfgWsNfufZY8Pqq/aKvJ6zmuT16MxrWtxdt08UMoLgS/pBTHPl
+1wN0/uQZ+CQqxQP1CA+yXJG8P8RxbROUrA7CSw0oGqmQxQeGh5J3o0Zt11g9gjBi
+CsUzydGZ6FiAsgw4A8bbjyhP5wBy1BFKkhninNFDACeRtY5inICrvP0+EdJ5lkYt
+KfAWIDxPVaxVaMN4BwNI8TETl99J8c37Z6JS3+t1woLpJ8nyFeBO8MQ04aXfWfyD
+1D5gGdUxSNgYa9VslAC3TwRnKOi04QuHCWGxUgeXZAWoCpe+FI/YN4FNAfQv+rqE
+cgNkKnPQIhSyb6BUE/lDV1Z010H+4gos3IFgPBxmu3XwGxz3XfYYQrfclIYoOgAk
+2OxKDsfQW3OLKVVbaUab3ruG24BwO6FMLkA2qW3OV9mh/VWViBsJTOiTKIGFvP8U
+0cuBQjIHPgMnLY6z3FkVWJwf5KaBbUB17KMH/YoMngZliwl/daVaCKwGxhOHGy+u
+KykDFkmn/ruRTGvVTrcxjpUwBbNAwtOjXFhJp11z4FvHSpVuwIsB3vGDIxTon6A/
+agJYFbQERrsKjC8nQNwFKRifmF62QQBErndDIahI0B5xzEPzcPTYSEQqDK9c2kQU
+4IdrgsAh9vSyZAtmB2kKyC21U4t4Ggg5I76+14cu5mhcXusOPQY=
+=3EZY
+-----END PGP SIGNATURE-----
