@@ -5,38 +5,38 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 09 Oct 2026 22:50:30 +0000
+Date: Sun, 11 Oct 2026 07:11:53 +0000
 Description: Verdictan stable package repository
 Label: Verdictan
 Origin: Verdictan
 Suite: stable
 MD5Sum:
- a66a23a512dce1f2e2ad359c07bb5325             1522 Release
- 4b09b4d26c54fdfd01c80beb62bff5db             8612 main/binary-amd64/Packages
- df09fa6c16bd16dd4a4283b9c3314cef             2542 main/binary-amd64/Packages.gz
+ 24421a15ee8da10020055a7d0489ac07             1522 Release
+ d1f1f4969e803fe10b24b3fb95588058             9330 main/binary-amd64/Packages
+ 2a7857787452be6ef7477057a1d8b9a9             2731 main/binary-amd64/Packages.gz
 SHA1:
- c50767fe0d0e301832665248ea2da1ed1e8fa689             1522 Release
- 1c3a635799a47498e9e55ca8c4c07fd0bced5764             8612 main/binary-amd64/Packages
- fc2ebfe7754330e4c520c5a930af0869ab7ff07b             2542 main/binary-amd64/Packages.gz
+ 852168e76f8cfcee33e28a25a36d98c98ad7ccc9             1522 Release
+ f3ae1f7466ca1b49b1269abd3527d726b68d8bc6             9330 main/binary-amd64/Packages
+ fc428cef47129062276184b55ac7c08de658a74b             2731 main/binary-amd64/Packages.gz
 SHA256:
- 139c98096065eb14671381ca41d5e315e4c086ebcdac9c8b480f3dc988b7932d             1522 Release
- 522a9260758869ff3aac91e701097cd83adaa7442684483699b2a849b1a52ebe             8612 main/binary-amd64/Packages
- bc930a35f4888a33be5277fcdf50e174763f99dabe2fb08d6ed5f3071c86f29d             2542 main/binary-amd64/Packages.gz
+ 10dd67adca7bf56fa16817664ef515ee679bb0a92e48c13248f276dd2b2b2709             1522 Release
+ 1e3199729c4790eaebb831ee6555a1f166a034c6e8ba0af71f679a11cf91e5ae             9330 main/binary-amd64/Packages
+ 8a680a1fe0b98d1905f30dcd79486623439c7bab1c4fcd1b0af82801f175150e             2731 main/binary-amd64/Packages.gz
 SHA512:
- eee9c28aa1368c55ca34c32d455ba76259a6cb2da144b47a6a1cea423bb4c520e5c13abf2a7977546bd7de67f4231dbe851f4b2154318d82a9bcbfddf3d8b01b             1522 Release
- 9dd1663c06091773fd1a78543c6b8e88f029dd8c8bd2780dcf01f03e815d2289a5d9a829e97bf72a91c8415a0e545d32117ab413457009826b5cb17d5d46fce6             8612 main/binary-amd64/Packages
- 9d78a9bd1d81d379c83be0297d5806ea3dd3dad76e1679cbb424434bfa530b49633f4dac486419a36a30a278fd61cd4155a0da27c984762e46fee119110d2bab             2542 main/binary-amd64/Packages.gz
+ 9c872e3be09e2933dd27681d9b6ee026461ae3a68436439aaf229095b911a96ee85a15262bc4b073d909753ec1b1fab6b6f6e29ef4e2ec2b660b010d9b7f2835             1522 Release
+ 42953c16836902f101a780e9b9628e9028ff99bd904d05804f00c4ec4289089fa93e759aec86ee2cd2417c8f0443cbc5815a742691ad55e30ab0430776b01c03             9330 main/binary-amd64/Packages
+ 72deb8ec60f6864b71a90f95fd530293e0b330b2d0b0911564ae4c6abc94093533e9df60a43dce2e8c3df5a8bcae7d3dff3af27f3bce74a11e6aa2809e7651e7             2731 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEExpRBkBXYTNvDNv1MDr6vCEIS1moFAmrJcjcACgkQDr6vCEIS
-1mqotwv/a+2Manmlf2H45N6y9+3r7Zr63t4up3cG3VfgqPmNMVVzwTGJBEj0c3A3
-lNwfh9bfJvaev2pXn6MRtCmuqRemMhdNkTaqjD0InrGzpA8GVj4BMprfTVFRuiiu
-9P3jy5XSMud0qv7sHnx7+NhcYHft/YR4W+P/8atR6wKTBHbwNqBnoMr3ldVSXVXt
-nQcy+cOxn9PrzVJZfg6c6rwmCo7oP90ZN+XXvu8lCCWDFjbHWWGo49C9UuxmIXvX
-nfN3yobFbJYwwUPEQnffL/bTjOxO2NkUhsaWYpFzgq22uJxJHShDaeDtVI76Lzcd
-4q78hupOX+OfJOHc1D8EspFch/zdHqu9fhD5UT+Gs6uyNDlbqGTgvl9yZ53PEFTn
-Aw74O9QPefP2LoNSVxmEFz4gr3WA+4W0pfZKfztGkc1HXPqbR0bmR7+2L35NMg/K
-JHAnuVi3ugR25P3Vk0W12LZfnwuP18AAsNJmttTTZ+cDkC7wiDyZEttAf+O9Pmde
-MCzjVsY/
-=M1iB
+iQGzBAEBCAAdFiEExpRBkBXYTNvDNv1MDr6vCEIS1moFAmrLOTkACgkQDr6vCEIS
+1mo4OQv/YXj6i892OU71lEjB1JUXq2PeHGSmGPh5Hc2Zia3BBFoE3Pm1eIZtQ9I0
+bqJwfFS6jtGv+wAnYQE8rHeFf3nPgW3wrUEYIRoXGfIyTQpZWgqLhhm9tSqKUuZK
+gw2BxLeP1/KWMbryLP4eA0Y6ZyI2cnuCMkYR7HRV5RQeduguYkIQy0ULoNi8iw+i
+qZCg2UgfA/IBloHulu+j7wYdt93lTxlGVk/iHMKdme7jYrslXBFq0IkJyiVbtmm7
+07V+zhMlF9Vylh79uXxW+Q9sGCwxjyL48rHmfYFE+v1js6I7/WkcT4an9RL0tPDj
+K9Z1DY5iApYueIx0iWXINlSABjjh27WbL/3152Q1fqmThw1gnlstriP7+UUx4aXX
+27izw8WN1b2zFUGkuxjGNtCoGU75NlNtMzEBEKPQVGNcRClKicm58K0BmjvxJkur
+9dERx2TbE3l96UTSL+jQMisUO8EwFJbEBY6iG+7CFM/vDfi5UwT8CvRvN4VWFf3m
+MdpF8css
+=oaf/
 -----END PGP SIGNATURE-----
