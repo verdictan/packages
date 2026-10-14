@@ -245,3 +245,18 @@ Description: Verdictan AI governance gateway
  Verdictan AI governance gateway — policy enforcement, audit, and control for
  LLM traffic.
 
+Package: verdictan
+Architecture: amd64
+Version: 0.2.0-1
+Priority: optional
+Maintainer: Verdictan <support@verdictan.com>
+Installed-Size: 146775
+Filename: pool/main/v/verdictan/verdictan_0.2.0-1_amd64.deb
+Size: 49334286
+MD5sum: 375eb0106e13f80719392b121480f3b2
+SHA1: 0eb082041a7f035494434d73cf42faf103ed88af
+SHA256: ec8b94134e13fc754b00abef94b0fc11155fbd73366d42b920ef3f217167b99b
+SHA512: 92c0b4cee2f7a0199d8f704f2a95c9443bbf6e1b03aef93889083b919e302eefa085b7229c0974e6d6626097a43121278c9f5fb13a833cbf9dd0b954a153cb8e
+Homepage: https://verdictan.com
+Description: Verdictan AI governance gateway CLI
+
