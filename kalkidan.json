@@ -1,0 +1,14 @@
+{
+  "branches": {
+    "main": "fa32959a371eadfb4329a8a64e2a142c9125ec57"
+  },
+  "version": "0.1.0-build.1792336421.fa32959a371e",
+  "source": "fa32959a371eadfb4329a8a64e2a142c9125ec57",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1792336421.fa32959a371e",
+  "sha256": {
+    "Kalkidan-0.1.0-build.1792336421.fa32959a371e-mac-arm64.dmg": "c189fc59aaace1e77285dd952e7be9c2469b89a1d4b4cc5cdb89b4ae62a1feb7",
+    "Kalkidan-0.1.0-build.1792336421.fa32959a371e-mac-arm64.zip": "6648c9aef8853dcd0a62f2b6f4bc9e6debb7d2a1743a3a7cc0b5513b2a9144f0",
+    "Kalkidan-0.1.0-build.1792336421.fa32959a371e-mac-x64.dmg": "12b77734a56f4794609032aeb98a0acd0d3c7f93661b2720ec140ba840cd1052",
+    "Kalkidan-0.1.0-build.1792336421.fa32959a371e-mac-x64.zip": "3deb2bfdf288a1b9c0ab3c474572cb30b9e064f0a887d2955bb4b1a8291e464d"
+  }
+}
