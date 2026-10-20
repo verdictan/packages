@@ -1,12 +1,12 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Verdictan AI governance gateway CLI",
   "homepage": "https://verdictan.com",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/verdictan/packages/releases/download/v0.2.1/verdictan-x86_64-pc-windows-msvc.zip",
-      "hash": "726a416b19ef1034152080bee06ada0fdbf48446dba1d236d9b3f91853fab109"
+      "url": "https://github.com/verdictan/packages/releases/download/v0.3.0/verdictan-x86_64-pc-windows-msvc.zip",
+      "hash": "57f9154638882b32b3a61866d2d4e3dfebea185aee5ae08e7cae78824aa9312c"
     }
   },
   "bin": "verdictan.exe",
