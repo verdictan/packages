@@ -350,3 +350,18 @@ SHA512: 1f439582fe7ac663f78886cf649caf5663bb189d5836c801eef512a36eee09cc45460f27
 Homepage: https://verdictan.com
 Description: Verdictan AI governance gateway CLI
 
+Package: verdictan
+Architecture: amd64
+Version: 0.6.3-1
+Priority: optional
+Maintainer: Verdictan <support@verdictan.com>
+Installed-Size: 147095
+Filename: pool/main/v/verdictan/verdictan_0.6.3-1_amd64.deb
+Size: 49402648
+MD5sum: ee83ea7efa096ae3be8deb2eb1d163bf
+SHA1: 53007a9a59df8a23e9d5fd8c6816a9e29e85015a
+SHA256: 530e5dad0b86eb06f936cf265ca83e7144c51bd552d9d85e4782c76cddad0029
+SHA512: 490f61957a81b77c4ad0b061ba84fda714bc890f0195de790aa7879f2be2ca3a11578a8a1d38c4c2d7ad81e9f256b1389900597c3481b1c08eb1d7383912be1e
+Homepage: https://verdictan.com
+Description: Verdictan AI governance gateway CLI
+
