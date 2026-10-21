@@ -2,24 +2,24 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 20 Oct 2026 23:19:03 +0000
+Date: Wed, 21 Oct 2026 09:17:32 +0000
 Description: Verdictan stable package repository
 Label: Verdictan
 Origin: Verdictan
 Suite: stable
 MD5Sum:
- 6eb59859c9093dd1c623e5c06ef57f36             1522 Release
- 1a24ffeeb30e7832c8728f1a8fe27aff            11726 main/binary-amd64/Packages
- 71168d665c7e4b4540d269550f9ec093             3498 main/binary-amd64/Packages.gz
+ 4b0a040008c7ef8fa00a72a927bda34c             1522 Release
+ bed449531536c0b99bbf4a426b893b79            12325 main/binary-amd64/Packages
+ 6560abbb5ce359ca97b1ae08a76b06a6             3683 main/binary-amd64/Packages.gz
 SHA1:
- e0ded9bf6fc41f9cd905e790954396a55a09864a             1522 Release
- cc83fb6a37a389b16848371a0ebe28f74c6b1e52            11726 main/binary-amd64/Packages
- 0474561f244c27e6913d537c325818a22e4bfbdc             3498 main/binary-amd64/Packages.gz
+ e25c503eda66b05dbb4b4dcc9fb8d381005ec78e             1522 Release
+ f3b9bfbc29536ac0cb33b568c5ff92b1e2f17197            12325 main/binary-amd64/Packages
+ 1dcaa16caa805b82e9bf1bdc8d68ad0d73c8457b             3683 main/binary-amd64/Packages.gz
 SHA256:
- dc14f7a40f535ea8504a9069cee4d10cfc9f04f0189849f9b3a2b3bffed02af6             1522 Release
- 1a149fd28dbda2de98859f8e7a64e543d4484c6712289f569d430eeb3a5b521c            11726 main/binary-amd64/Packages
- 321fa90ca3f8a3df3854563266612e4e3fb67b2f965a5563695850da815f2a38             3498 main/binary-amd64/Packages.gz
+ be7aaa6d189cbd47dedffb475e36bca3afcf6aa0217f7b14df6a2ff23b112e43             1522 Release
+ f7d28646610849c16eeea9923cf430d7ba68bc716d26529f4d114738e7052ba3            12325 main/binary-amd64/Packages
+ f68ba179feaf9ea4f27eb8ee18445ea48d56051bc8eeb1c22d6931de670c0306             3683 main/binary-amd64/Packages.gz
 SHA512:
- a42dc2679c236e1253b2b38a0c1f129074566db91384f415f9e5ba7c650d88efc19e154f06f7dc9935cece0a8d5c637c80e4ec07efdfb1c548a068f06a3d3f6d             1522 Release
- 93799449796ae7e33b7f10d65d5d7f0cc85ebac89bbd641d2d1aabe18beb35c9e9b0f3ed1a73af045e48d2ad1216735a9dd6263fd856705ac4f167dcb0a54aae            11726 main/binary-amd64/Packages
- 6cd8a30763d25869840b9094deb73fffa2bf26bdb0e1eb0dce2624cdcfa679b107d3eb092b4d66a0651d2b577b3cdf6e936b0f7bd016bb0b93eeb3fb4f67a6e1             3498 main/binary-amd64/Packages.gz
+ ff317f19737f2876914a738538323ff465780373ac48907b70e0d5154a9500332c33dc854c46e397f1560561e938eb441da214b60640cac6700ea5447e73c507             1522 Release
+ af57d338529b938101151536321281a74348fdc999394a8331b7da427a9bf145731a1c645e81ea9c6afcfb4cb932b88e06cde32fd182214b6afc33152f8ab232            12325 main/binary-amd64/Packages
+ 2bb0098dda45b4965d50632637c23420105262e20d9013a533a60a3368ce5a5afd31ca14d1aacd44113bca1253d5154540b09ba34d92961a18bbfaee7d9079ad             3683 main/binary-amd64/Packages.gz
