@@ -1,21 +1,21 @@
 {
   "branches": {
-    "main": "0e0dc649821cb7e76806e7d10d7d86b0c557afa4"
+    "main": "bfb7868aabc1a2da1bdfd343ad5903ca63c2aed2"
   },
-  "version": "0.1.0-build.1792710174.0e0dc649821c",
-  "source": "0e0dc649821cb7e76806e7d10d7d86b0c557afa4",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1792710174.0e0dc649821c",
+  "version": "0.1.0-build.1792711522.bfb7868aabc1",
+  "source": "bfb7868aabc1a2da1bdfd343ad5903ca63c2aed2",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1792711522.bfb7868aabc1",
   "sha256": {
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-linux-x64.AppImage": "a0feb366c741305a426a7a5ba9e051c3af27dc6650bd7554c38805dd02d46592",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-linux-x64.deb": "ca881d4e023de80c1d04af6f2d142c218866f439128c1c768a528953fab1ada9",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-mac-arm64.dmg": "f156c9bee5a638e02e5b71e3e0043160083a6f66edfd4d1bd8a0bae777785bb2",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-mac-arm64.zip": "559e0a083f2fb4bf035270b93e07566a2134e9e61ce0e8d4e0c93de0d77c5b72",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-mac-x64.dmg": "b1fcee4bf28114f9acbf907aea235b0a83e0c480fad60c53b1cb531c9e29c007",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-mac-x64.zip": "53871bcbc88ffeecf928857e972c061908748cedab27bc01ac01aafc98601563",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-win-x64.exe": "09fa2c073cde39f4e953122ae62103376b116db0e4c19541a0c179c131ba966f",
-    "Kalkidan-0.1.0-build.1792710174.0e0dc649821c-win-x64.zip": "defa7af9460a6cae39b271abebd684a0504eee8bbbd7a42f31896956dcf92952"
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-linux-x64.AppImage": "d7358e34ab2a56ed9ea70511357bd33bb842a6485ee027c2a665d3fc722f1bb4",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-linux-x64.deb": "0e0cbc6e2e3e3fa14870bb93da3242c81ebf69fc3d25b45f516ab9ba13b6a88a",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-mac-arm64.dmg": "01d7d09e616a904e3290743fa82e35dda1f7606cc6a783e366cd40195d8177a4",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-mac-arm64.zip": "47d5644b8e354611e4555ebf66b6fc0baebc818af5451b06a8cffbabec7f5e92",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-mac-x64.dmg": "917ca883c00059971605eb5467476706ca25af5de9dbe67d3d9a1ee2d268fc80",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-mac-x64.zip": "4a00341ea001c2bdbd1cfa830e22ad6b249dd60aab25e171bafb537e0f238557",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-win-x64.exe": "b806fcdfe5a360d501c2d488c9dc7cd1794eca35209f3d853fadd4efd31140da",
+    "Kalkidan-0.1.0-build.1792711522.bfb7868aabc1-win-x64.zip": "1b3b1ef171a9f7c415cec3e94b6f8e9e8beb8344fbd904dcdf9c74a4e9944a07"
   },
   "builds": {
-    "main": 84
+    "main": 85
   }
 }
