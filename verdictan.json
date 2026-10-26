@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/verdictan/packages/releases/download/v0.6.22/verdictan-x86_64-pc-windows-msvc.zip",
-      "hash": "a8009d291f131cdb2ffd22a95e32a1999be3204f1cd3e831885c6a2ebddd61a6"
-    }, "arm64": {"url": "https://github.com/verdictan/packages/releases/download/v0.6.22/verdictan-aarch64-pc-windows-msvc.zip", "hash": "cd1b1c5e3760cb472b77fab716736636f9d656ede2786bfbb0a925c236a3c056"}
+      "hash": "d953da9b4d19e3b90a6d8e3fab8fad32d3facc36189a3765fd765e6a5fc9aefc"
+    }, "arm64": {"url": "https://github.com/verdictan/packages/releases/download/v0.6.22/verdictan-aarch64-pc-windows-msvc.zip", "hash": "fb3086ca39b2831fae8883e1b215bc884877b26d88c5e7358e8c1ab9cb9859a7"}
   },
   "bin": "verdictan.exe",
   "checkver": {
