@@ -1,26 +1,26 @@
 {
   "branches": {
-    "main": "2031083f3003f4985ae2d12791cbbd4c3f85ee0b"
+    "main": "8ba8279800de1b341400e37a5e38de4b0b39cab4"
   },
-  "version": "0.1.0-build.1793095442.2031083f3003",
-  "source": "2031083f3003f4985ae2d12791cbbd4c3f85ee0b",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793095442.2031083f3003",
+  "version": "0.1.0-build.1793097049.8ba8279800de",
+  "source": "8ba8279800de1b341400e37a5e38de4b0b39cab4",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793097049.8ba8279800de",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793095442.2031083f3003-mac-arm64.dmg": "aef56ae33b446210d8828f129ae45b35450e1651651b9a3c0d2c5c27634f5e31",
-    "Kalkidan-0.1.0-build.1793095442.2031083f3003-mac-arm64.zip": "ff69db37f22c09bcb393b9870c97148ddbf648fa17e9f3eb8638b4faec1f0604"
+    "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.dmg": "84da63f35c78ae018b6de53fae895399ee052155d2f89a4e25bc5b233a8860f2",
+    "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.zip": "610a3e76782b4503419a810fd4bd391e3390cedc2b2aef93ac0cd0278a2b0ee7"
   },
   "builds": {
-    "main": 156
+    "main": 157
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793095442.2031083f3003",
-      "source": "2031083f3003f4985ae2d12791cbbd4c3f85ee0b",
+      "version": "0.1.0-build.1793097049.8ba8279800de",
+      "source": "8ba8279800de1b341400e37a5e38de4b0b39cab4",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793095442.2031083f3003-mac-arm64.zip": "ff69db37f22c09bcb393b9870c97148ddbf648fa17e9f3eb8638b4faec1f0604",
-        "Kalkidan-0.1.0-build.1793095442.2031083f3003-mac-arm64.dmg": "aef56ae33b446210d8828f129ae45b35450e1651651b9a3c0d2c5c27634f5e31"
+        "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.dmg": "84da63f35c78ae018b6de53fae895399ee052155d2f89a4e25bc5b233a8860f2",
+        "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.zip": "610a3e76782b4503419a810fd4bd391e3390cedc2b2aef93ac0cd0278a2b0ee7"
       }
     }
   },
-  "recipe": "{\"library\":\"efe7f24060ade3bfbd395338700d70a4dbbf0736\",\"executor\":\"1614d63059817956b3a3a35056524f72a9ecd9a6a2cfff4f9b50fd89bfe09a95\"}"
+  "recipe": "{\"library\":\"86a626c40385583ddd79fb69a42272705178130d\",\"executor\":\"386edbef0d2e8f1fbe71f575a2bc91ffc6ca3b6f155196e3d864fa5e97b765d6\"}"
 }
