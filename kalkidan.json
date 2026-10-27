@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "8ba8279800de1b341400e37a5e38de4b0b39cab4"
+    "main": "baccd29af4ef7a04983caa84e8844e25e333b33e"
   },
-  "version": "0.1.0-build.1793097049.8ba8279800de",
-  "source": "8ba8279800de1b341400e37a5e38de4b0b39cab4",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793097049.8ba8279800de",
+  "version": "0.1.0-build.1793104511.baccd29af4ef",
+  "source": "baccd29af4ef7a04983caa84e8844e25e333b33e",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793104511.baccd29af4ef",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.dmg": "84da63f35c78ae018b6de53fae895399ee052155d2f89a4e25bc5b233a8860f2",
-    "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.zip": "610a3e76782b4503419a810fd4bd391e3390cedc2b2aef93ac0cd0278a2b0ee7"
+    "Kalkidan-0.1.0-build.1793104511.baccd29af4ef-mac-arm64.dmg": "0bd7711103ad27529f10b9b41f08a84bd09fb027a969224fb1b61332286c9622",
+    "Kalkidan-0.1.0-build.1793104511.baccd29af4ef-mac-arm64.zip": "502a016f45efac3f4e6e7519956bab4c3e0fb3c95918376257d4e2facb406532"
   },
   "builds": {
-    "main": 157
+    "main": 158
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793097049.8ba8279800de",
-      "source": "8ba8279800de1b341400e37a5e38de4b0b39cab4",
+      "version": "0.1.0-build.1793104511.baccd29af4ef",
+      "source": "baccd29af4ef7a04983caa84e8844e25e333b33e",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.dmg": "84da63f35c78ae018b6de53fae895399ee052155d2f89a4e25bc5b233a8860f2",
-        "Kalkidan-0.1.0-build.1793097049.8ba8279800de-mac-arm64.zip": "610a3e76782b4503419a810fd4bd391e3390cedc2b2aef93ac0cd0278a2b0ee7"
+        "Kalkidan-0.1.0-build.1793104511.baccd29af4ef-mac-arm64.zip": "502a016f45efac3f4e6e7519956bab4c3e0fb3c95918376257d4e2facb406532",
+        "Kalkidan-0.1.0-build.1793104511.baccd29af4ef-mac-arm64.dmg": "0bd7711103ad27529f10b9b41f08a84bd09fb027a969224fb1b61332286c9622"
       }
     }
   },
