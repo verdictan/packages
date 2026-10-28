@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "d7427fa4ab3534cef83d13dc1b2a2b5d2059740d"
+    "main": "ac81abcb498883b5abe0b93902c4274bed7fb5a7"
   },
-  "version": "0.1.0-build.1793179958.d7427fa4ab35",
-  "source": "d7427fa4ab3534cef83d13dc1b2a2b5d2059740d",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793179958.d7427fa4ab35",
+  "version": "0.1.0-build.1793180252.ac81abcb4988",
+  "source": "ac81abcb498883b5abe0b93902c4274bed7fb5a7",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793180252.ac81abcb4988",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793179958.d7427fa4ab35-mac-arm64.dmg": "148de1e0050c2062ca04e60fee135d6e58c3e8f1abd381fb10b726cbae786db0",
-    "Kalkidan-0.1.0-build.1793179958.d7427fa4ab35-mac-arm64.zip": "361d7690ef428a178d1fe4ad9051e2fa8a4634495fab62eebd52d0169b0b500a"
+    "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.dmg": "67abf1bc5453b1c295c9c24b9c52a46ddadf2bca3b31d8a6030c877e34005a4f",
+    "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.zip": "cd2dbae758e8085dcdbc719c7fe472ccce00419e74b473805111ed8bbc7ac2b3"
   },
   "builds": {
-    "main": 163
+    "main": 164
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793179958.d7427fa4ab35",
-      "source": "d7427fa4ab3534cef83d13dc1b2a2b5d2059740d",
+      "version": "0.1.0-build.1793180252.ac81abcb4988",
+      "source": "ac81abcb498883b5abe0b93902c4274bed7fb5a7",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793179958.d7427fa4ab35-mac-arm64.dmg": "148de1e0050c2062ca04e60fee135d6e58c3e8f1abd381fb10b726cbae786db0",
-        "Kalkidan-0.1.0-build.1793179958.d7427fa4ab35-mac-arm64.zip": "361d7690ef428a178d1fe4ad9051e2fa8a4634495fab62eebd52d0169b0b500a"
+        "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.zip": "cd2dbae758e8085dcdbc719c7fe472ccce00419e74b473805111ed8bbc7ac2b3",
+        "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.dmg": "67abf1bc5453b1c295c9c24b9c52a46ddadf2bca3b31d8a6030c877e34005a4f"
       }
     }
   },
