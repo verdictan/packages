@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "8689fbd992fb2d938918655aba1b47de0c32162c"
+    "main": "cf0e33a237c80594f4f26ac90cb5d4874766e168"
   },
-  "version": "0.1.0-build.1793200627.8689fbd992fb",
-  "source": "8689fbd992fb2d938918655aba1b47de0c32162c",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793200627.8689fbd992fb",
+  "version": "0.1.0-build.1793201206.cf0e33a237c8",
+  "source": "cf0e33a237c80594f4f26ac90cb5d4874766e168",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793201206.cf0e33a237c8",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.dmg": "a34f55c08e86f4639e2e7779f759d7e687965eaf9db8359fa3aaea825a463c3f",
-    "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.zip": "286b0c90c543adf8cff6d0d950cf0d438c3f43fe957a46be3870cf4aa85c37c6"
+    "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.dmg": "b6eca21ff8d79eae47585daef717a70ed33a6cb1b05cbaa3f6acef9c36dade2c",
+    "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.zip": "afc26bb52fd520eaec3f2445e701d7959e0c316318c0f569f5500c5c55765c41"
   },
   "builds": {
-    "main": 178
+    "main": 180
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793200627.8689fbd992fb",
-      "source": "8689fbd992fb2d938918655aba1b47de0c32162c",
+      "version": "0.1.0-build.1793201206.cf0e33a237c8",
+      "source": "cf0e33a237c80594f4f26ac90cb5d4874766e168",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.zip": "286b0c90c543adf8cff6d0d950cf0d438c3f43fe957a46be3870cf4aa85c37c6",
-        "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.dmg": "a34f55c08e86f4639e2e7779f759d7e687965eaf9db8359fa3aaea825a463c3f"
+        "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.dmg": "b6eca21ff8d79eae47585daef717a70ed33a6cb1b05cbaa3f6acef9c36dade2c",
+        "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.zip": "afc26bb52fd520eaec3f2445e701d7959e0c316318c0f569f5500c5c55765c41"
       }
     }
   },
