@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "20b1f20060890559b1e28535bbe85b0b15908bcf"
+    "main": "8689fbd992fb2d938918655aba1b47de0c32162c"
   },
-  "version": "0.1.0-build.1793200061.20b1f2006089",
-  "source": "20b1f20060890559b1e28535bbe85b0b15908bcf",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793200061.20b1f2006089",
+  "version": "0.1.0-build.1793200627.8689fbd992fb",
+  "source": "8689fbd992fb2d938918655aba1b47de0c32162c",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793200627.8689fbd992fb",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.dmg": "dd481f46a40e9d208e7dd7cccd71b9ccda305dd33ba55821781b80a5ae2cf7f4",
-    "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.zip": "e78c174399ab3dbbc96d58e2201991c106696eedff833f5335a50d2fb1c0de22"
+    "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.dmg": "a34f55c08e86f4639e2e7779f759d7e687965eaf9db8359fa3aaea825a463c3f",
+    "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.zip": "286b0c90c543adf8cff6d0d950cf0d438c3f43fe957a46be3870cf4aa85c37c6"
   },
   "builds": {
-    "main": 176
+    "main": 178
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793200061.20b1f2006089",
-      "source": "20b1f20060890559b1e28535bbe85b0b15908bcf",
+      "version": "0.1.0-build.1793200627.8689fbd992fb",
+      "source": "8689fbd992fb2d938918655aba1b47de0c32162c",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.dmg": "dd481f46a40e9d208e7dd7cccd71b9ccda305dd33ba55821781b80a5ae2cf7f4",
-        "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.zip": "e78c174399ab3dbbc96d58e2201991c106696eedff833f5335a50d2fb1c0de22"
+        "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.zip": "286b0c90c543adf8cff6d0d950cf0d438c3f43fe957a46be3870cf4aa85c37c6",
+        "Kalkidan-0.1.0-build.1793200627.8689fbd992fb-mac-arm64.dmg": "a34f55c08e86f4639e2e7779f759d7e687965eaf9db8359fa3aaea825a463c3f"
       }
     }
   },
