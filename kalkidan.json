@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "2befdf2def69b2ea1121ff607b6e6744f0645b95"
+    "main": "20b1f20060890559b1e28535bbe85b0b15908bcf"
   },
-  "version": "0.1.0-build.1793199497.2befdf2def69",
-  "source": "2befdf2def69b2ea1121ff607b6e6744f0645b95",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793199497.2befdf2def69",
+  "version": "0.1.0-build.1793200061.20b1f2006089",
+  "source": "20b1f20060890559b1e28535bbe85b0b15908bcf",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793200061.20b1f2006089",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793199497.2befdf2def69-mac-arm64.dmg": "3d59754c4bcb0f7fc48677940c227672dcd508ddbf20c3a4f8a51223ea07a3ab",
-    "Kalkidan-0.1.0-build.1793199497.2befdf2def69-mac-arm64.zip": "1302f0658bf6ae9f39352413794b2f4ebb1fa1096655a6261776567e8ea817e4"
+    "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.dmg": "dd481f46a40e9d208e7dd7cccd71b9ccda305dd33ba55821781b80a5ae2cf7f4",
+    "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.zip": "e78c174399ab3dbbc96d58e2201991c106696eedff833f5335a50d2fb1c0de22"
   },
   "builds": {
-    "main": 174
+    "main": 176
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793199497.2befdf2def69",
-      "source": "2befdf2def69b2ea1121ff607b6e6744f0645b95",
+      "version": "0.1.0-build.1793200061.20b1f2006089",
+      "source": "20b1f20060890559b1e28535bbe85b0b15908bcf",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793199497.2befdf2def69-mac-arm64.dmg": "3d59754c4bcb0f7fc48677940c227672dcd508ddbf20c3a4f8a51223ea07a3ab",
-        "Kalkidan-0.1.0-build.1793199497.2befdf2def69-mac-arm64.zip": "1302f0658bf6ae9f39352413794b2f4ebb1fa1096655a6261776567e8ea817e4"
+        "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.dmg": "dd481f46a40e9d208e7dd7cccd71b9ccda305dd33ba55821781b80a5ae2cf7f4",
+        "Kalkidan-0.1.0-build.1793200061.20b1f2006089-mac-arm64.zip": "e78c174399ab3dbbc96d58e2201991c106696eedff833f5335a50d2fb1c0de22"
       }
     }
   },
