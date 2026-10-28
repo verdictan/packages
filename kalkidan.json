@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "f7364fc4985e809556dd92fb5a1088af036f91de"
+    "main": "969fa86b51bf19b468493a50bd002bef5f38e864"
   },
-  "version": "0.1.0-build.1793198367.f7364fc4985e",
-  "source": "f7364fc4985e809556dd92fb5a1088af036f91de",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793198367.f7364fc4985e",
+  "version": "0.1.0-build.1793198934.969fa86b51bf",
+  "source": "969fa86b51bf19b468493a50bd002bef5f38e864",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793198934.969fa86b51bf",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793198367.f7364fc4985e-mac-arm64.dmg": "df629fce0eac4c060d7e8aa117c23f1db110042a4d1b3fa1d716f91c3d3af3a8",
-    "Kalkidan-0.1.0-build.1793198367.f7364fc4985e-mac-arm64.zip": "738408a3a7f429d82a7ebf249d7b63d947b724f8a3739f5e03d1666a8ec9ff18"
+    "Kalkidan-0.1.0-build.1793198934.969fa86b51bf-mac-arm64.dmg": "70a88de92b2a5795ab780eb37793b2a50b069b0b5b07ec382e29006328ee409d",
+    "Kalkidan-0.1.0-build.1793198934.969fa86b51bf-mac-arm64.zip": "7845fa9614e465c77ca1b8c7bb768538fff7ab522636393ec92a791362d1701f"
   },
   "builds": {
-    "main": 170
+    "main": 172
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793198367.f7364fc4985e",
-      "source": "f7364fc4985e809556dd92fb5a1088af036f91de",
+      "version": "0.1.0-build.1793198934.969fa86b51bf",
+      "source": "969fa86b51bf19b468493a50bd002bef5f38e864",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793198367.f7364fc4985e-mac-arm64.zip": "738408a3a7f429d82a7ebf249d7b63d947b724f8a3739f5e03d1666a8ec9ff18",
-        "Kalkidan-0.1.0-build.1793198367.f7364fc4985e-mac-arm64.dmg": "df629fce0eac4c060d7e8aa117c23f1db110042a4d1b3fa1d716f91c3d3af3a8"
+        "Kalkidan-0.1.0-build.1793198934.969fa86b51bf-mac-arm64.zip": "7845fa9614e465c77ca1b8c7bb768538fff7ab522636393ec92a791362d1701f",
+        "Kalkidan-0.1.0-build.1793198934.969fa86b51bf-mac-arm64.dmg": "70a88de92b2a5795ab780eb37793b2a50b069b0b5b07ec382e29006328ee409d"
       }
     }
   },
