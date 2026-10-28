@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "ac81abcb498883b5abe0b93902c4274bed7fb5a7"
+    "main": "4b2520114b135354b897dc82f70ae3af0f330651"
   },
-  "version": "0.1.0-build.1793180252.ac81abcb4988",
-  "source": "ac81abcb498883b5abe0b93902c4274bed7fb5a7",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793180252.ac81abcb4988",
+  "version": "0.1.0-build.1793197334.4b2520114b13",
+  "source": "4b2520114b135354b897dc82f70ae3af0f330651",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793197334.4b2520114b13",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.dmg": "67abf1bc5453b1c295c9c24b9c52a46ddadf2bca3b31d8a6030c877e34005a4f",
-    "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.zip": "cd2dbae758e8085dcdbc719c7fe472ccce00419e74b473805111ed8bbc7ac2b3"
+    "Kalkidan-0.1.0-build.1793197334.4b2520114b13-mac-arm64.dmg": "af2153fffa51f673d2a9a9ae6322d9ebe3387388acbd193786a56187737c2254",
+    "Kalkidan-0.1.0-build.1793197334.4b2520114b13-mac-arm64.zip": "ecf187cb27d246dff69438277e3a0366f63575a365c8e93b3f2f2ddec85e7d44"
   },
   "builds": {
-    "main": 164
+    "main": 166
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793180252.ac81abcb4988",
-      "source": "ac81abcb498883b5abe0b93902c4274bed7fb5a7",
+      "version": "0.1.0-build.1793197334.4b2520114b13",
+      "source": "4b2520114b135354b897dc82f70ae3af0f330651",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.zip": "cd2dbae758e8085dcdbc719c7fe472ccce00419e74b473805111ed8bbc7ac2b3",
-        "Kalkidan-0.1.0-build.1793180252.ac81abcb4988-mac-arm64.dmg": "67abf1bc5453b1c295c9c24b9c52a46ddadf2bca3b31d8a6030c877e34005a4f"
+        "Kalkidan-0.1.0-build.1793197334.4b2520114b13-mac-arm64.zip": "ecf187cb27d246dff69438277e3a0366f63575a365c8e93b3f2f2ddec85e7d44",
+        "Kalkidan-0.1.0-build.1793197334.4b2520114b13-mac-arm64.dmg": "af2153fffa51f673d2a9a9ae6322d9ebe3387388acbd193786a56187737c2254"
       }
     }
   },
