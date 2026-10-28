@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "cf0e33a237c80594f4f26ac90cb5d4874766e168"
+    "main": "bcd085555984fdcbb770b105c6631fb4b2c3f473"
   },
-  "version": "0.1.0-build.1793201206.cf0e33a237c8",
-  "source": "cf0e33a237c80594f4f26ac90cb5d4874766e168",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793201206.cf0e33a237c8",
+  "version": "0.1.0-build.1793201490.bcd085555984",
+  "source": "bcd085555984fdcbb770b105c6631fb4b2c3f473",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793201490.bcd085555984",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.dmg": "b6eca21ff8d79eae47585daef717a70ed33a6cb1b05cbaa3f6acef9c36dade2c",
-    "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.zip": "afc26bb52fd520eaec3f2445e701d7959e0c316318c0f569f5500c5c55765c41"
+    "Kalkidan-0.1.0-build.1793201490.bcd085555984-mac-arm64.dmg": "51d6fa7002adf0161c1d4ac0dccda977dbefc0f2aa1409328cbfac56167105f2",
+    "Kalkidan-0.1.0-build.1793201490.bcd085555984-mac-arm64.zip": "f1dee7124777d82420b494ddd37df3437dbaf11b4121a76388dbae91d5919176"
   },
   "builds": {
-    "main": 180
+    "main": 181
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793201206.cf0e33a237c8",
-      "source": "cf0e33a237c80594f4f26ac90cb5d4874766e168",
+      "version": "0.1.0-build.1793201490.bcd085555984",
+      "source": "bcd085555984fdcbb770b105c6631fb4b2c3f473",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.dmg": "b6eca21ff8d79eae47585daef717a70ed33a6cb1b05cbaa3f6acef9c36dade2c",
-        "Kalkidan-0.1.0-build.1793201206.cf0e33a237c8-mac-arm64.zip": "afc26bb52fd520eaec3f2445e701d7959e0c316318c0f569f5500c5c55765c41"
+        "Kalkidan-0.1.0-build.1793201490.bcd085555984-mac-arm64.zip": "f1dee7124777d82420b494ddd37df3437dbaf11b4121a76388dbae91d5919176",
+        "Kalkidan-0.1.0-build.1793201490.bcd085555984-mac-arm64.dmg": "51d6fa7002adf0161c1d4ac0dccda977dbefc0f2aa1409328cbfac56167105f2"
       }
     }
   },
