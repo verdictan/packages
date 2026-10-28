@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "27a6aa1007605052cb8542df6c2fe30eb7ce3fc6"
+    "main": "ead585c5cef84fcf8b33d1ca8066decfc9d576ed"
   },
-  "version": "0.1.0-build.1793211823.27a6aa100760",
-  "source": "27a6aa1007605052cb8542df6c2fe30eb7ce3fc6",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793211823.27a6aa100760",
+  "version": "0.1.0-build.1793231001.ead585c5cef8",
+  "source": "ead585c5cef84fcf8b33d1ca8066decfc9d576ed",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793231001.ead585c5cef8",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793211823.27a6aa100760-mac-arm64.dmg": "72fb644894c86ad84a7c6e615b2094f376d9b4b32a0517ae1bb92b92579d8938",
-    "Kalkidan-0.1.0-build.1793211823.27a6aa100760-mac-arm64.zip": "5e3c84ca7f3926fc4134ef2cd133db3c4addb9603009be3c6e3407511096f7a2"
+    "Kalkidan-0.1.0-build.1793231001.ead585c5cef8-mac-arm64.dmg": "6c42807633c6ad47948f89e354f2c8beb3bb17d2263df068578939c3c2a5f612",
+    "Kalkidan-0.1.0-build.1793231001.ead585c5cef8-mac-arm64.zip": "191f8afb0e107d644ca7bb789190ff51732cf8fec5c320d3a1371480f0292648"
   },
   "builds": {
-    "main": 185
+    "main": 186
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793211823.27a6aa100760",
-      "source": "27a6aa1007605052cb8542df6c2fe30eb7ce3fc6",
+      "version": "0.1.0-build.1793231001.ead585c5cef8",
+      "source": "ead585c5cef84fcf8b33d1ca8066decfc9d576ed",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793211823.27a6aa100760-mac-arm64.zip": "5e3c84ca7f3926fc4134ef2cd133db3c4addb9603009be3c6e3407511096f7a2",
-        "Kalkidan-0.1.0-build.1793211823.27a6aa100760-mac-arm64.dmg": "72fb644894c86ad84a7c6e615b2094f376d9b4b32a0517ae1bb92b92579d8938"
+        "Kalkidan-0.1.0-build.1793231001.ead585c5cef8-mac-arm64.zip": "191f8afb0e107d644ca7bb789190ff51732cf8fec5c320d3a1371480f0292648",
+        "Kalkidan-0.1.0-build.1793231001.ead585c5cef8-mac-arm64.dmg": "6c42807633c6ad47948f89e354f2c8beb3bb17d2263df068578939c3c2a5f612"
       }
     }
   },
