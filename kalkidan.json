@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "754d45015338486d110cb819fe05d2cbd74f234c"
+    "main": "0dfc3441b9749a51c9e58ca0042f0c3382c4cb3e"
   },
-  "version": "0.1.0-build.1793173811.754d45015338",
-  "source": "754d45015338486d110cb819fe05d2cbd74f234c",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793173811.754d45015338",
+  "version": "0.1.0-build.1793176261.0dfc3441b974",
+  "source": "0dfc3441b9749a51c9e58ca0042f0c3382c4cb3e",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793176261.0dfc3441b974",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793173811.754d45015338-mac-arm64.dmg": "03b92fbabe9c880780fd6a2f848adcb71ae1f03249d3543b5da0f9a8117c5b3a",
-    "Kalkidan-0.1.0-build.1793173811.754d45015338-mac-arm64.zip": "20c004f503bb5c28fc22f02d7ea5aa98ce89f8a8f503f84940f127847d1d99f4"
+    "Kalkidan-0.1.0-build.1793176261.0dfc3441b974-mac-arm64.dmg": "650bd732a931d8a9264161d30c42f02c52a25822111989701fe93d3f24f0723d",
+    "Kalkidan-0.1.0-build.1793176261.0dfc3441b974-mac-arm64.zip": "be5b26956529e1c73a9e32a02b6f9801664b147d88b4b65d4586ddc5e4315ccd"
   },
   "builds": {
-    "main": 160
+    "main": 161
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793173811.754d45015338",
-      "source": "754d45015338486d110cb819fe05d2cbd74f234c",
+      "version": "0.1.0-build.1793176261.0dfc3441b974",
+      "source": "0dfc3441b9749a51c9e58ca0042f0c3382c4cb3e",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793173811.754d45015338-mac-arm64.dmg": "03b92fbabe9c880780fd6a2f848adcb71ae1f03249d3543b5da0f9a8117c5b3a",
-        "Kalkidan-0.1.0-build.1793173811.754d45015338-mac-arm64.zip": "20c004f503bb5c28fc22f02d7ea5aa98ce89f8a8f503f84940f127847d1d99f4"
+        "Kalkidan-0.1.0-build.1793176261.0dfc3441b974-mac-arm64.dmg": "650bd732a931d8a9264161d30c42f02c52a25822111989701fe93d3f24f0723d",
+        "Kalkidan-0.1.0-build.1793176261.0dfc3441b974-mac-arm64.zip": "be5b26956529e1c73a9e32a02b6f9801664b147d88b4b65d4586ddc5e4315ccd"
       }
     }
   },
