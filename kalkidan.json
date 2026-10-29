@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2"
+    "main": "79b1e5ed51571ef9ed96d94919964f63d296220e"
   },
-  "version": "0.1.0-build.1793243702.6c7665bb401d",
-  "source": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793243702.6c7665bb401d",
+  "version": "0.1.0-build.1793244279.79b1e5ed5157",
+  "source": "79b1e5ed51571ef9ed96d94919964f63d296220e",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793244279.79b1e5ed5157",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.dmg": "e37bb83be53a539e132c1322aa90ad2a80aa16929f96a8bb828a19719aa7367d",
-    "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.zip": "5ad08ecf55d61bd837480ffb0ad8fe78471dc3571f1b93e17ff6a0febc6b0a06"
+    "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.dmg": "45f3c7ffcda34f690ef0c1fb2d1211cb2de3d45019a513a70247d26813a34fa5",
+    "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.zip": "5dbcf3317829424b5217aa270512fd5bed835c063deae412aa4ed4e9cf7af658"
   },
   "builds": {
-    "main": 193
+    "main": 194
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793243702.6c7665bb401d",
-      "source": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2",
+      "version": "0.1.0-build.1793244279.79b1e5ed5157",
+      "source": "79b1e5ed51571ef9ed96d94919964f63d296220e",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.dmg": "e37bb83be53a539e132c1322aa90ad2a80aa16929f96a8bb828a19719aa7367d",
-        "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.zip": "5ad08ecf55d61bd837480ffb0ad8fe78471dc3571f1b93e17ff6a0febc6b0a06"
+        "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.zip": "5dbcf3317829424b5217aa270512fd5bed835c063deae412aa4ed4e9cf7af658",
+        "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.dmg": "45f3c7ffcda34f690ef0c1fb2d1211cb2de3d45019a513a70247d26813a34fa5"
       }
     }
   },
