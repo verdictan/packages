@@ -622,6 +622,21 @@ Description: Verdictan AI governance gateway CLI
 
 Package: verdictan
 Architecture: amd64
+Version: 0.6.29-1
+Priority: optional
+Maintainer: Verdictan <support@verdictan.com>
+Installed-Size: 149970
+Filename: pool/main/v/verdictan/verdictan_0.6.29-1_amd64.deb
+Size: 50126024
+MD5sum: 3dc80ce400c1196bc74caa9a22f11927
+SHA1: 39699e1c67a8e38fa57f5f9cc8dfeea52e5c633f
+SHA256: fd77e1f211dae15f0a0e0cf4f779ed7afddfd6406d2087847d16f20a62450d31
+SHA512: 59561d9b5c1bb7fdb1fb41e80b1161487f93471efe92b7c5faf2e2237dcfb6d4e9a900842b9b785a1de721716483b727088cf0e6b1c8cfb03396b2e26042e04c
+Homepage: https://verdictan.com
+Description: Verdictan AI governance gateway CLI
+
+Package: verdictan
+Architecture: amd64
 Version: 0.6.3-1
 Priority: optional
 Maintainer: Verdictan <support@verdictan.com>
