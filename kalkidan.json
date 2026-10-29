@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "5ab104d70c1b463408f6a4b0d231d6746dd89109"
+    "main": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2"
   },
-  "version": "0.1.0-build.1793232577.5ab104d70c1b",
-  "source": "5ab104d70c1b463408f6a4b0d231d6746dd89109",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793232577.5ab104d70c1b",
+  "version": "0.1.0-build.1793243702.6c7665bb401d",
+  "source": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793243702.6c7665bb401d",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793232577.5ab104d70c1b-mac-arm64.dmg": "b9c945621a63e40f1386c706ce7a54f6a1886d8447308de1a0d81a46c7efc7a4",
-    "Kalkidan-0.1.0-build.1793232577.5ab104d70c1b-mac-arm64.zip": "e1b2030b433408cf0573f66ea87e8695500c14635ef5b5fc61b459dddaa7dd16"
+    "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.dmg": "e37bb83be53a539e132c1322aa90ad2a80aa16929f96a8bb828a19719aa7367d",
+    "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.zip": "5ad08ecf55d61bd837480ffb0ad8fe78471dc3571f1b93e17ff6a0febc6b0a06"
   },
   "builds": {
-    "main": 190
+    "main": 193
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793232577.5ab104d70c1b",
-      "source": "5ab104d70c1b463408f6a4b0d231d6746dd89109",
+      "version": "0.1.0-build.1793243702.6c7665bb401d",
+      "source": "6c7665bb401d3b847f1623103eb7d5a17a40f9d2",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793232577.5ab104d70c1b-mac-arm64.zip": "e1b2030b433408cf0573f66ea87e8695500c14635ef5b5fc61b459dddaa7dd16",
-        "Kalkidan-0.1.0-build.1793232577.5ab104d70c1b-mac-arm64.dmg": "b9c945621a63e40f1386c706ce7a54f6a1886d8447308de1a0d81a46c7efc7a4"
+        "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.dmg": "e37bb83be53a539e132c1322aa90ad2a80aa16929f96a8bb828a19719aa7367d",
+        "Kalkidan-0.1.0-build.1793243702.6c7665bb401d-mac-arm64.zip": "5ad08ecf55d61bd837480ffb0ad8fe78471dc3571f1b93e17ff6a0febc6b0a06"
       }
     }
   },
