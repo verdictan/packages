@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "79b1e5ed51571ef9ed96d94919964f63d296220e"
+    "main": "faa2ce4e042b83bfe6437f57769606810718bb9e"
   },
-  "version": "0.1.0-build.1793244279.79b1e5ed5157",
-  "source": "79b1e5ed51571ef9ed96d94919964f63d296220e",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793244279.79b1e5ed5157",
+  "version": "0.1.0-build.1793259746.faa2ce4e042b",
+  "source": "faa2ce4e042b83bfe6437f57769606810718bb9e",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793259746.faa2ce4e042b",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.dmg": "45f3c7ffcda34f690ef0c1fb2d1211cb2de3d45019a513a70247d26813a34fa5",
-    "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.zip": "5dbcf3317829424b5217aa270512fd5bed835c063deae412aa4ed4e9cf7af658"
+    "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.dmg": "d2ce2a18744626c70692041ec62e78308d07ee55b814f75e0ba1160ac95ac05d",
+    "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.zip": "00445b29c754a16213efb93a811a43de1ceee5d00c26670398c0ca2f98a45109"
   },
   "builds": {
-    "main": 194
+    "main": 195
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793244279.79b1e5ed5157",
-      "source": "79b1e5ed51571ef9ed96d94919964f63d296220e",
+      "version": "0.1.0-build.1793259746.faa2ce4e042b",
+      "source": "faa2ce4e042b83bfe6437f57769606810718bb9e",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.zip": "5dbcf3317829424b5217aa270512fd5bed835c063deae412aa4ed4e9cf7af658",
-        "Kalkidan-0.1.0-build.1793244279.79b1e5ed5157-mac-arm64.dmg": "45f3c7ffcda34f690ef0c1fb2d1211cb2de3d45019a513a70247d26813a34fa5"
+        "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.dmg": "d2ce2a18744626c70692041ec62e78308d07ee55b814f75e0ba1160ac95ac05d",
+        "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.zip": "00445b29c754a16213efb93a811a43de1ceee5d00c26670398c0ca2f98a45109"
       }
     }
   },
