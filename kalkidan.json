@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "8b424c318343c969a2246c49ca44527b9c4851b0"
+    "main": "d890486ae4052c2ca96869a3399019ba60fedc77"
   },
-  "version": "0.1.0-build.1793231592.8b424c318343",
-  "source": "8b424c318343c969a2246c49ca44527b9c4851b0",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793231592.8b424c318343",
+  "version": "0.1.0-build.1793231880.d890486ae405",
+  "source": "d890486ae4052c2ca96869a3399019ba60fedc77",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793231880.d890486ae405",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793231592.8b424c318343-mac-arm64.dmg": "f8a69fbf03bc552c7d2381e24076b4cd44b3f11d78275acf7925633230b56ab3",
-    "Kalkidan-0.1.0-build.1793231592.8b424c318343-mac-arm64.zip": "ba10771ebb63fe828a574f16b31a86d579b121425c36f82c02b364a83921094a"
+    "Kalkidan-0.1.0-build.1793231880.d890486ae405-mac-arm64.dmg": "b116d64dddac11e92e01e3102da293633f17ce6d2bfc18f61e09996fca5c2559",
+    "Kalkidan-0.1.0-build.1793231880.d890486ae405-mac-arm64.zip": "656a6082ebec6131a28be42d6761c39eab3522009fe4cc24215d478b361b4e4b"
   },
   "builds": {
-    "main": 187
+    "main": 188
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793231592.8b424c318343",
-      "source": "8b424c318343c969a2246c49ca44527b9c4851b0",
+      "version": "0.1.0-build.1793231880.d890486ae405",
+      "source": "d890486ae4052c2ca96869a3399019ba60fedc77",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793231592.8b424c318343-mac-arm64.zip": "ba10771ebb63fe828a574f16b31a86d579b121425c36f82c02b364a83921094a",
-        "Kalkidan-0.1.0-build.1793231592.8b424c318343-mac-arm64.dmg": "f8a69fbf03bc552c7d2381e24076b4cd44b3f11d78275acf7925633230b56ab3"
+        "Kalkidan-0.1.0-build.1793231880.d890486ae405-mac-arm64.dmg": "b116d64dddac11e92e01e3102da293633f17ce6d2bfc18f61e09996fca5c2559",
+        "Kalkidan-0.1.0-build.1793231880.d890486ae405-mac-arm64.zip": "656a6082ebec6131a28be42d6761c39eab3522009fe4cc24215d478b361b4e4b"
       }
     }
   },
