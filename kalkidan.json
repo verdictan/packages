@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "356ef9ae34985d3592dd193556b0a9c909a99427"
+    "main": "c95445665e80f57340800fd114a5a9ac947d68bf"
   },
-  "version": "0.1.0-build.1793401209.356ef9ae3498",
-  "source": "356ef9ae34985d3592dd193556b0a9c909a99427",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793401209.356ef9ae3498",
+  "version": "0.1.0-build.1793401505.c95445665e80",
+  "source": "c95445665e80f57340800fd114a5a9ac947d68bf",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793401505.c95445665e80",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793401209.356ef9ae3498-mac-arm64.dmg": "38af33d4088836ff1eb8c2f019dc45d403cef66d5663f51425508d4c1b85a76e",
-    "Kalkidan-0.1.0-build.1793401209.356ef9ae3498-mac-arm64.zip": "eeef1453404d26c2a171ff4c40a74c8f0020a77a9f49b276c347b2eba9e71a59"
+    "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.dmg": "1dadcd78bbd7c7e44deaf4e8d7c3b079250fcad9b6c9187ab0481448717b1bca",
+    "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.zip": "478a9646d3bc9a66f2b45bcf06bad1f802e906936377cc211572f913044b95d4"
   },
   "builds": {
-    "main": 208
+    "main": 209
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793401209.356ef9ae3498",
-      "source": "356ef9ae34985d3592dd193556b0a9c909a99427",
+      "version": "0.1.0-build.1793401505.c95445665e80",
+      "source": "c95445665e80f57340800fd114a5a9ac947d68bf",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793401209.356ef9ae3498-mac-arm64.zip": "eeef1453404d26c2a171ff4c40a74c8f0020a77a9f49b276c347b2eba9e71a59",
-        "Kalkidan-0.1.0-build.1793401209.356ef9ae3498-mac-arm64.dmg": "38af33d4088836ff1eb8c2f019dc45d403cef66d5663f51425508d4c1b85a76e"
+        "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.zip": "478a9646d3bc9a66f2b45bcf06bad1f802e906936377cc211572f913044b95d4",
+        "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.dmg": "1dadcd78bbd7c7e44deaf4e8d7c3b079250fcad9b6c9187ab0481448717b1bca"
       }
     }
   },
