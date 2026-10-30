@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "faa2ce4e042b83bfe6437f57769606810718bb9e"
+    "main": "f876dfd3ce006e651e838df95cec05c8dab9107a"
   },
-  "version": "0.1.0-build.1793259746.faa2ce4e042b",
-  "source": "faa2ce4e042b83bfe6437f57769606810718bb9e",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793259746.faa2ce4e042b",
+  "version": "0.1.0-build.1793354830.f876dfd3ce00",
+  "source": "f876dfd3ce006e651e838df95cec05c8dab9107a",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793354830.f876dfd3ce00",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.dmg": "d2ce2a18744626c70692041ec62e78308d07ee55b814f75e0ba1160ac95ac05d",
-    "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.zip": "00445b29c754a16213efb93a811a43de1ceee5d00c26670398c0ca2f98a45109"
+    "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.dmg": "0afbd4cbf7ecdc4f41f16e5dc23c7c2df5d21d06b1eabc462731fe4474eb910c",
+    "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.zip": "4eca176ff1acb39f34e458ed280641990e54b11e03191cd76a0c762902c29986"
   },
   "builds": {
-    "main": 195
+    "main": 198
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793259746.faa2ce4e042b",
-      "source": "faa2ce4e042b83bfe6437f57769606810718bb9e",
+      "version": "0.1.0-build.1793354830.f876dfd3ce00",
+      "source": "f876dfd3ce006e651e838df95cec05c8dab9107a",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.dmg": "d2ce2a18744626c70692041ec62e78308d07ee55b814f75e0ba1160ac95ac05d",
-        "Kalkidan-0.1.0-build.1793259746.faa2ce4e042b-mac-arm64.zip": "00445b29c754a16213efb93a811a43de1ceee5d00c26670398c0ca2f98a45109"
+        "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.dmg": "0afbd4cbf7ecdc4f41f16e5dc23c7c2df5d21d06b1eabc462731fe4474eb910c",
+        "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.zip": "4eca176ff1acb39f34e458ed280641990e54b11e03191cd76a0c762902c29986"
       }
     }
   },
