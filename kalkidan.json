@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "d1a475432a397647138f1ded6287bce6719e5b26"
+    "main": "294a870e5f8aa188a3bb808526f08f21d9ef1629"
   },
-  "version": "0.1.0-build.1793368841.d1a475432a39",
-  "source": "d1a475432a397647138f1ded6287bce6719e5b26",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793368841.d1a475432a39",
+  "version": "0.1.0-build.1793370815.294a870e5f8a",
+  "source": "294a870e5f8aa188a3bb808526f08f21d9ef1629",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793370815.294a870e5f8a",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793368841.d1a475432a39-mac-arm64.dmg": "54e5907efda11f7c0167857c79a545301984f3ce549c7140890d9fd698b9767c",
-    "Kalkidan-0.1.0-build.1793368841.d1a475432a39-mac-arm64.zip": "14c18ca5908b0ffaeb11981f76ccd2de0a587061c6d748fc5ff5165014321645"
+    "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.dmg": "050acf7ac8bca3b93afa218d75048be066d8c8df0769ab5880e61213753ea313",
+    "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.zip": "385ccdff34b92b4178770930fb0d8e5810982519cdf552af7d41903fac5775dd"
   },
   "builds": {
-    "main": 202
+    "main": 203
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793368841.d1a475432a39",
-      "source": "d1a475432a397647138f1ded6287bce6719e5b26",
+      "version": "0.1.0-build.1793370815.294a870e5f8a",
+      "source": "294a870e5f8aa188a3bb808526f08f21d9ef1629",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793368841.d1a475432a39-mac-arm64.zip": "14c18ca5908b0ffaeb11981f76ccd2de0a587061c6d748fc5ff5165014321645",
-        "Kalkidan-0.1.0-build.1793368841.d1a475432a39-mac-arm64.dmg": "54e5907efda11f7c0167857c79a545301984f3ce549c7140890d9fd698b9767c"
+        "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.dmg": "050acf7ac8bca3b93afa218d75048be066d8c8df0769ab5880e61213753ea313",
+        "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.zip": "385ccdff34b92b4178770930fb0d8e5810982519cdf552af7d41903fac5775dd"
       }
     }
   },
