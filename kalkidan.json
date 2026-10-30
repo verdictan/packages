@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "f876dfd3ce006e651e838df95cec05c8dab9107a"
+    "main": "feb878e866ce15c18ca0db84d6268c4626579d1d"
   },
-  "version": "0.1.0-build.1793354830.f876dfd3ce00",
-  "source": "f876dfd3ce006e651e838df95cec05c8dab9107a",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793354830.f876dfd3ce00",
+  "version": "0.1.0-build.1793363248.feb878e866ce",
+  "source": "feb878e866ce15c18ca0db84d6268c4626579d1d",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793363248.feb878e866ce",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.dmg": "0afbd4cbf7ecdc4f41f16e5dc23c7c2df5d21d06b1eabc462731fe4474eb910c",
-    "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.zip": "4eca176ff1acb39f34e458ed280641990e54b11e03191cd76a0c762902c29986"
+    "Kalkidan-0.1.0-build.1793363248.feb878e866ce-mac-arm64.dmg": "1e7cc13bb539cb450c75e956ee546a4209394e72e04917c12f5ede12a670a0b4",
+    "Kalkidan-0.1.0-build.1793363248.feb878e866ce-mac-arm64.zip": "ad12a78de4709fd6fbd595db465eadb222183d1c17d1b89b092c145e929dfce9"
   },
   "builds": {
-    "main": 198
+    "main": 199
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793354830.f876dfd3ce00",
-      "source": "f876dfd3ce006e651e838df95cec05c8dab9107a",
+      "version": "0.1.0-build.1793363248.feb878e866ce",
+      "source": "feb878e866ce15c18ca0db84d6268c4626579d1d",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.dmg": "0afbd4cbf7ecdc4f41f16e5dc23c7c2df5d21d06b1eabc462731fe4474eb910c",
-        "Kalkidan-0.1.0-build.1793354830.f876dfd3ce00-mac-arm64.zip": "4eca176ff1acb39f34e458ed280641990e54b11e03191cd76a0c762902c29986"
+        "Kalkidan-0.1.0-build.1793363248.feb878e866ce-mac-arm64.dmg": "1e7cc13bb539cb450c75e956ee546a4209394e72e04917c12f5ede12a670a0b4",
+        "Kalkidan-0.1.0-build.1793363248.feb878e866ce-mac-arm64.zip": "ad12a78de4709fd6fbd595db465eadb222183d1c17d1b89b092c145e929dfce9"
       }
     }
   },
