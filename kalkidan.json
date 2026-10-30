@@ -1,26 +1,26 @@
 {
   "branches": {
-    "main": "294a870e5f8aa188a3bb808526f08f21d9ef1629"
+    "main": "035c8ba3fd8ad988e8b0d9bd807020bc5a1dcbfc"
   },
-  "version": "0.1.0-build.1793370815.294a870e5f8a",
-  "source": "294a870e5f8aa188a3bb808526f08f21d9ef1629",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793370815.294a870e5f8a",
+  "version": "0.1.0-build.1793371635.035c8ba3fd8a",
+  "source": "035c8ba3fd8ad988e8b0d9bd807020bc5a1dcbfc",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793371635.035c8ba3fd8a",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.dmg": "050acf7ac8bca3b93afa218d75048be066d8c8df0769ab5880e61213753ea313",
-    "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.zip": "385ccdff34b92b4178770930fb0d8e5810982519cdf552af7d41903fac5775dd"
+    "Kalkidan-0.1.0-build.1793371635.035c8ba3fd8a-mac-arm64.dmg": "2468f4a2ef0ba1a0e44b02dacaadb5e73e1c6d363f294129bb0177b8adbe1327",
+    "Kalkidan-0.1.0-build.1793371635.035c8ba3fd8a-mac-arm64.zip": "51fbede2fc33e957433e6ea25bc65112769526372f3fdffbe0c516192ba4ad0a"
   },
   "builds": {
-    "main": 203
+    "main": 204
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793370815.294a870e5f8a",
-      "source": "294a870e5f8aa188a3bb808526f08f21d9ef1629",
+      "version": "0.1.0-build.1793371635.035c8ba3fd8a",
+      "source": "035c8ba3fd8ad988e8b0d9bd807020bc5a1dcbfc",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.dmg": "050acf7ac8bca3b93afa218d75048be066d8c8df0769ab5880e61213753ea313",
-        "Kalkidan-0.1.0-build.1793370815.294a870e5f8a-mac-arm64.zip": "385ccdff34b92b4178770930fb0d8e5810982519cdf552af7d41903fac5775dd"
+        "Kalkidan-0.1.0-build.1793371635.035c8ba3fd8a-mac-arm64.zip": "51fbede2fc33e957433e6ea25bc65112769526372f3fdffbe0c516192ba4ad0a",
+        "Kalkidan-0.1.0-build.1793371635.035c8ba3fd8a-mac-arm64.dmg": "2468f4a2ef0ba1a0e44b02dacaadb5e73e1c6d363f294129bb0177b8adbe1327"
       }
     }
   },
-  "recipe": "{\"library\":\"d450987923c494d94f0b10a54fb237f796520313\",\"executor\":\"386edbef0d2e8f1fbe71f575a2bc91ffc6ca3b6f155196e3d864fa5e97b765d6\"}"
+  "recipe": "{\"library\":\"4305d4e5f3ab013cd0dbe8dbac72731e9951a5bd\",\"executor\":\"386edbef0d2e8f1fbe71f575a2bc91ffc6ca3b6f155196e3d864fa5e97b765d6\"}"
 }
