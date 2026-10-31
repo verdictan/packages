@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50"
+    "main": "b5e3a52a4c45f42ef3d09f1a05581413c7b4df24"
   },
-  "version": "0.1.0-build.1793445766.0e7cf7cb0b62",
-  "source": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793445766.0e7cf7cb0b62",
+  "version": "0.1.0-build.1793446463.b5e3a52a4c45",
+  "source": "b5e3a52a4c45f42ef3d09f1a05581413c7b4df24",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793446463.b5e3a52a4c45",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.dmg": "22a004eb3512e8110682d1adaaaa0a13e29376cc4449e70cc618777a12fb1429",
-    "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.zip": "fdf1274a57c570c872ca331e5c8d4a317cd6014023790c752307dddacecb2709"
+    "Kalkidan-0.1.0-build.1793446463.b5e3a52a4c45-mac-arm64.dmg": "a0e152a2cc024f09006ba7ff71d29802997ff8a7ac77d625a68e4012570b60da",
+    "Kalkidan-0.1.0-build.1793446463.b5e3a52a4c45-mac-arm64.zip": "ffb6d2251ede047bcc0f29c7404bc12a6bf8e21a747489592a0ade23f272ed3d"
   },
   "builds": {
-    "main": 212
+    "main": 213
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793445766.0e7cf7cb0b62",
-      "source": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50",
+      "version": "0.1.0-build.1793446463.b5e3a52a4c45",
+      "source": "b5e3a52a4c45f42ef3d09f1a05581413c7b4df24",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.dmg": "22a004eb3512e8110682d1adaaaa0a13e29376cc4449e70cc618777a12fb1429",
-        "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.zip": "fdf1274a57c570c872ca331e5c8d4a317cd6014023790c752307dddacecb2709"
+        "Kalkidan-0.1.0-build.1793446463.b5e3a52a4c45-mac-arm64.zip": "ffb6d2251ede047bcc0f29c7404bc12a6bf8e21a747489592a0ade23f272ed3d",
+        "Kalkidan-0.1.0-build.1793446463.b5e3a52a4c45-mac-arm64.dmg": "a0e152a2cc024f09006ba7ff71d29802997ff8a7ac77d625a68e4012570b60da"
       }
     }
   },
