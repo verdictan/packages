@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "3e866dadb305bf27c19e09339affdf285a961cb8"
+    "main": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50"
   },
-  "version": "0.1.0-build.1793444880.3e866dadb305",
-  "source": "3e866dadb305bf27c19e09339affdf285a961cb8",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793444880.3e866dadb305",
+  "version": "0.1.0-build.1793445766.0e7cf7cb0b62",
+  "source": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793445766.0e7cf7cb0b62",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.dmg": "627fcc560adc89f308d18b582d69f26129b9cb2397fe803d16cbc600240f11b9",
-    "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.zip": "608ca718178ab2125612173ea1fd66fc277e7fd6d8d60f1aff0c25421c443ebd"
+    "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.dmg": "22a004eb3512e8110682d1adaaaa0a13e29376cc4449e70cc618777a12fb1429",
+    "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.zip": "fdf1274a57c570c872ca331e5c8d4a317cd6014023790c752307dddacecb2709"
   },
   "builds": {
-    "main": 211
+    "main": 212
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793444880.3e866dadb305",
-      "source": "3e866dadb305bf27c19e09339affdf285a961cb8",
+      "version": "0.1.0-build.1793445766.0e7cf7cb0b62",
+      "source": "0e7cf7cb0b62e2034fac9b97743363689e5bdc50",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.dmg": "627fcc560adc89f308d18b582d69f26129b9cb2397fe803d16cbc600240f11b9",
-        "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.zip": "608ca718178ab2125612173ea1fd66fc277e7fd6d8d60f1aff0c25421c443ebd"
+        "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.dmg": "22a004eb3512e8110682d1adaaaa0a13e29376cc4449e70cc618777a12fb1429",
+        "Kalkidan-0.1.0-build.1793445766.0e7cf7cb0b62-mac-arm64.zip": "fdf1274a57c570c872ca331e5c8d4a317cd6014023790c752307dddacecb2709"
       }
     }
   },
