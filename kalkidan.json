@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "c95445665e80f57340800fd114a5a9ac947d68bf"
+    "main": "3e866dadb305bf27c19e09339affdf285a961cb8"
   },
-  "version": "0.1.0-build.1793401505.c95445665e80",
-  "source": "c95445665e80f57340800fd114a5a9ac947d68bf",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793401505.c95445665e80",
+  "version": "0.1.0-build.1793444880.3e866dadb305",
+  "source": "3e866dadb305bf27c19e09339affdf285a961cb8",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.1.0-build.1793444880.3e866dadb305",
   "sha256": {
-    "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.dmg": "1dadcd78bbd7c7e44deaf4e8d7c3b079250fcad9b6c9187ab0481448717b1bca",
-    "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.zip": "478a9646d3bc9a66f2b45bcf06bad1f802e906936377cc211572f913044b95d4"
+    "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.dmg": "627fcc560adc89f308d18b582d69f26129b9cb2397fe803d16cbc600240f11b9",
+    "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.zip": "608ca718178ab2125612173ea1fd66fc277e7fd6d8d60f1aff0c25421c443ebd"
   },
   "builds": {
-    "main": 209
+    "main": 211
   },
   "platforms": {
     "mac": {
-      "version": "0.1.0-build.1793401505.c95445665e80",
-      "source": "c95445665e80f57340800fd114a5a9ac947d68bf",
+      "version": "0.1.0-build.1793444880.3e866dadb305",
+      "source": "3e866dadb305bf27c19e09339affdf285a961cb8",
       "sha256": {
-        "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.zip": "478a9646d3bc9a66f2b45bcf06bad1f802e906936377cc211572f913044b95d4",
-        "Kalkidan-0.1.0-build.1793401505.c95445665e80-mac-arm64.dmg": "1dadcd78bbd7c7e44deaf4e8d7c3b079250fcad9b6c9187ab0481448717b1bca"
+        "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.dmg": "627fcc560adc89f308d18b582d69f26129b9cb2397fe803d16cbc600240f11b9",
+        "Kalkidan-0.1.0-build.1793444880.3e866dadb305-mac-arm64.zip": "608ca718178ab2125612173ea1fd66fc277e7fd6d8d60f1aff0c25421c443ebd"
       }
     }
   },
