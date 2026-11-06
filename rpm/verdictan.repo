@@ -1,7 +1,7 @@
 [verdictan]
 name=Verdictan stable packages
-baseurl=https://verdictan.github.io/packages/rpm/$basearch
+baseurl=https://verdictan.com/packages/rpm/$basearch
 enabled=1
 gpgcheck=1
 repo_gpgcheck=1
-gpgkey=https://verdictan.github.io/packages/keys/verdictan-packages.asc
+gpgkey=https://verdictan.com/packages/keys/verdictan-packages.asc
