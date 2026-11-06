@@ -1,24 +1,28 @@
 {
   "branches": {
-    "main": "d3489c312b532269bfbe8658013910fc2396bfdf"
+    "main": "cfc3943885ec99da94847375c27c4003c7129c0c"
   },
-  "version": "0.2.6",
-  "source": "d3489c312b532269bfbe8658013910fc2396bfdf",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.6",
+  "version": "0.2.7",
+  "source": "cfc3943885ec99da94847375c27c4003c7129c0c",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.7",
   "sha256": {
-    "Kalkidan-0.2.6-mac-arm64.dmg": "92c5bca8ae1c51b0d7c20db14bda9d02484b4636448c9fcca62f7bdcf09e59e6",
-    "Kalkidan-0.2.6-mac-arm64.zip": "e7a6e920336c324b587a9aa44dccc4d644611cb631b37c63f2f4955c873ecaf4"
+    "Kalkidan-0.2.7-mac-arm64.dmg": "da43fea0548a5241781a8fa253e1f8c7fc46ebde6ff84178ddcfbcf1ec6bada0",
+    "Kalkidan-0.2.7-mac-arm64.zip": "e1d663ef644f3867697c327dbebef19d6ee3af36690eff696f3fa6bcab7c12b0",
+    "Kalkidan-0.2.7-mac-x64.dmg": "9078efafde88592b3cf0b40b2f96801e61cde87ab00c7c11148578b411001dbf",
+    "Kalkidan-0.2.7-mac-x64.zip": "e870f980a0bdc62acca182d92490634a252f52c2f88026ab0b3e06ac936aea0c"
   },
   "builds": {
     "main": 213
   },
   "platforms": {
     "mac": {
-      "version": "0.2.6",
-      "source": "d3489c312b532269bfbe8658013910fc2396bfdf",
+      "version": "0.2.7",
+      "source": "cfc3943885ec99da94847375c27c4003c7129c0c",
       "sha256": {
-        "Kalkidan-0.2.6-mac-arm64.dmg": "92c5bca8ae1c51b0d7c20db14bda9d02484b4636448c9fcca62f7bdcf09e59e6",
-        "Kalkidan-0.2.6-mac-arm64.zip": "e7a6e920336c324b587a9aa44dccc4d644611cb631b37c63f2f4955c873ecaf4"
+        "Kalkidan-0.2.7-mac-arm64.dmg": "da43fea0548a5241781a8fa253e1f8c7fc46ebde6ff84178ddcfbcf1ec6bada0",
+        "Kalkidan-0.2.7-mac-arm64.zip": "e1d663ef644f3867697c327dbebef19d6ee3af36690eff696f3fa6bcab7c12b0",
+        "Kalkidan-0.2.7-mac-x64.dmg": "9078efafde88592b3cf0b40b2f96801e61cde87ab00c7c11148578b411001dbf",
+        "Kalkidan-0.2.7-mac-x64.zip": "e870f980a0bdc62acca182d92490634a252f52c2f88026ab0b3e06ac936aea0c"
       }
     }
   },
