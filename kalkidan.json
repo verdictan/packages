@@ -1,28 +1,28 @@
 {
   "branches": {
-    "main": "78d72759d49c79106c208a65be3f21583414a038"
+    "main": "0e0a8b01f1f775597b4e46ab3d7d0e377295b471"
   },
-  "version": "0.2.8",
-  "source": "78d72759d49c79106c208a65be3f21583414a038",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.8",
+  "version": "0.2.9",
+  "source": "0e0a8b01f1f775597b4e46ab3d7d0e377295b471",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.9",
   "sha256": {
-    "Kalkidan-0.2.8-mac-arm64.dmg": "5f958bac434d033d0a934b664b6c55c649a26d905f258bd49be21cfba1042e36",
-    "Kalkidan-0.2.8-mac-arm64.zip": "513ed1e8a17b56b09e5f1c3203e0a7a34e86c5174663d3527552b9baff70c466",
-    "Kalkidan-0.2.8-mac-x64.dmg": "82e861bfd2c41dd1c0e806e5a64ca16b5fff8d98cb401ad3f70ab216baee9847",
-    "Kalkidan-0.2.8-mac-x64.zip": "ef683b5444dc86a73eab98a0b4a590e99cfa2942375681f01c02c8dc87e412f1"
+    "Kalkidan-0.2.9-mac-arm64.dmg": "c732ed25b1d6651a29b01bf9616b44953f0c8314ecd85e7f28e9d5e3c61bfb39",
+    "Kalkidan-0.2.9-mac-arm64.zip": "e584912946283e28c57f430f41d017bb98a651b774cf000a7e14acd5131afccd",
+    "Kalkidan-0.2.9-mac-x64.dmg": "52323bc0498b5a8dfa61faaba851403d5845c398a89f93508bfe15a259f5945e",
+    "Kalkidan-0.2.9-mac-x64.zip": "0916a5c12ba00f0654238420c4eddf6fc31571757ee26fedfa9e19b23806abba"
   },
   "builds": {
     "main": 213
   },
   "platforms": {
     "mac": {
-      "version": "0.2.8",
-      "source": "78d72759d49c79106c208a65be3f21583414a038",
+      "version": "0.2.9",
+      "source": "0e0a8b01f1f775597b4e46ab3d7d0e377295b471",
       "sha256": {
-        "Kalkidan-0.2.8-mac-arm64.dmg": "5f958bac434d033d0a934b664b6c55c649a26d905f258bd49be21cfba1042e36",
-        "Kalkidan-0.2.8-mac-arm64.zip": "513ed1e8a17b56b09e5f1c3203e0a7a34e86c5174663d3527552b9baff70c466",
-        "Kalkidan-0.2.8-mac-x64.dmg": "82e861bfd2c41dd1c0e806e5a64ca16b5fff8d98cb401ad3f70ab216baee9847",
-        "Kalkidan-0.2.8-mac-x64.zip": "ef683b5444dc86a73eab98a0b4a590e99cfa2942375681f01c02c8dc87e412f1"
+        "Kalkidan-0.2.9-mac-arm64.dmg": "c732ed25b1d6651a29b01bf9616b44953f0c8314ecd85e7f28e9d5e3c61bfb39",
+        "Kalkidan-0.2.9-mac-arm64.zip": "e584912946283e28c57f430f41d017bb98a651b774cf000a7e14acd5131afccd",
+        "Kalkidan-0.2.9-mac-x64.dmg": "52323bc0498b5a8dfa61faaba851403d5845c398a89f93508bfe15a259f5945e",
+        "Kalkidan-0.2.9-mac-x64.zip": "0916a5c12ba00f0654238420c4eddf6fc31571757ee26fedfa9e19b23806abba"
       }
     }
   },
