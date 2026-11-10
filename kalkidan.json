@@ -1,24 +1,24 @@
 {
   "branches": {
-    "main": "954588737d5fb16dfccf19028d4d73a347a1cd97"
+    "main": "0a14a82c070465d4abc9755734a81c5992c15104"
   },
-  "version": "0.2.21",
-  "source": "954588737d5fb16dfccf19028d4d73a347a1cd97",
-  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.21",
+  "version": "0.2.22",
+  "source": "0a14a82c070465d4abc9755734a81c5992c15104",
+  "release": "https://github.com/verdictan/packages/releases/tag/kalkidan-v0.2.22",
   "sha256": {
-    "Kalkidan-0.2.21-mac-arm64.dmg": "995750acccbf64b3542e02025794c203deb6ff23f645e554f33ecd9cffdd44bf",
-    "Kalkidan-0.2.21-mac-arm64.zip": "4a8a4b70a0bdc8411c73aa0c290f143e1825acb7e978cdb0ec5f19695fdc8731"
+    "Kalkidan-0.2.22-mac-arm64.dmg": "1f05569d4532ab9c3fd6c0018e1359127ab4fdd84306bb191db8dac5876dc7fc",
+    "Kalkidan-0.2.22-mac-arm64.zip": "b1fdf138d9ae85e5e55d38bcb2d552130db61fc9a2c0840dbfe1588652a7fda8"
   },
   "builds": {
     "main": 213
   },
   "platforms": {
     "mac": {
-      "version": "0.2.21",
-      "source": "954588737d5fb16dfccf19028d4d73a347a1cd97",
+      "version": "0.2.22",
+      "source": "0a14a82c070465d4abc9755734a81c5992c15104",
       "sha256": {
-        "Kalkidan-0.2.21-mac-arm64.dmg": "995750acccbf64b3542e02025794c203deb6ff23f645e554f33ecd9cffdd44bf",
-        "Kalkidan-0.2.21-mac-arm64.zip": "4a8a4b70a0bdc8411c73aa0c290f143e1825acb7e978cdb0ec5f19695fdc8731"
+        "Kalkidan-0.2.22-mac-arm64.dmg": "1f05569d4532ab9c3fd6c0018e1359127ab4fdd84306bb191db8dac5876dc7fc",
+        "Kalkidan-0.2.22-mac-arm64.zip": "b1fdf138d9ae85e5e55d38bcb2d552130db61fc9a2c0840dbfe1588652a7fda8"
       }
     }
   },
