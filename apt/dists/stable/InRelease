@@ -5,38 +5,38 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 24 Nov 2026 17:05:13 +0000
+Date: Tue, 24 Nov 2026 22:46:09 +0000
 Description: Verdictan stable package repository
 Label: Verdictan
 Origin: Verdictan
 Suite: stable
 MD5Sum:
- abcce831d4d3e096a2ecdeae50bbb237             1522 Release
- bd21e8dedfe62780bdb6c855a6f45aaa            39953 main/binary-amd64/Packages
- 97e618f290aa2e2cbb24f723d69bc142            12055 main/binary-amd64/Packages.gz
+ 679dc656d84c42340e69b964223edd7a             1522 Release
+ b66aed0d786d0e6f999dc150305d8e5b            40554 main/binary-amd64/Packages
+ 4610da5b901d3a7ff616ba81b4012fee            12230 main/binary-amd64/Packages.gz
 SHA1:
- a12c61245dfe703b128b4323d9338bdfd3dd7d7c             1522 Release
- 8b88b1aff29ea226fc6b892acf12760b602e4fa5            39953 main/binary-amd64/Packages
- e1a8a85c72c832f0960017fb2e00b55628b88e41            12055 main/binary-amd64/Packages.gz
+ c002b60450c68fddac3679bd42ddf151fe37f771             1522 Release
+ f6bcb10b13373f4ce4f4fee525cde16e81a0cdc3            40554 main/binary-amd64/Packages
+ fd1822884338e9d6cdb2b913eae9acaac5f4d0eb            12230 main/binary-amd64/Packages.gz
 SHA256:
- c37447610c72c033e61f0956ac1b17fc27f45cf3c8a9be4159dd5b9fa7d4d4e6             1522 Release
- 0214f0068aaeb5c4c04523a2cb91e27bb15c51b4404f3e74846ee793553aa307            39953 main/binary-amd64/Packages
- 9a587fe0d95671c046d01a7c301816b6cf58a9b33fb2b45df9884fff9790aee5            12055 main/binary-amd64/Packages.gz
+ 90ad23c4fbd0416bc133b246c54e035ee834304f137daaeb7fc8c010a571d9f9             1522 Release
+ 4be14528e0bddaf9bfb04ca06547513c3937da3b6d7b43c1e54567ed495cb5da            40554 main/binary-amd64/Packages
+ 87d552d06d03eae40d3243d11f037c493a0eb6a598a27b605599f4a8fcbaa178            12230 main/binary-amd64/Packages.gz
 SHA512:
- 2b5374b1694057da01d43cca16c8a9d0b4a8d9b9a6643354fd5d8e6de900e5ad0b44794cd51171607b0e1fc9fbe24914ad9cd6b27d21efb8cd449ee87af4b5ba             1522 Release
- a5bd9c7869de5aa992dbc02313a98bd6f10b444b6606182625428ff4f9277f3ac2e3fdd2206185b79ab5d12c36fff15ebbe1b0fc601fcaac7f4eee02dc85b964            39953 main/binary-amd64/Packages
- d7b2a1f131736f5f41d5b35e017d2761b97865ac473777c649b46f4fb44fe12b7299f2702f91eba2bbd1ef3bfa18e68e7e40e992bd79af512b0b6978ac44291a            12055 main/binary-amd64/Packages.gz
+ fc75e023de5f30351cdb5174658c1b231defb039d0103a40854d7162d6a3b276dda96166b2ec25cc132025504186075f607abc760afbadc79c1290ad43becaa6             1522 Release
+ b46f7083003fe79487841c7123d64a8b6467ff01afcecc179774323a73e4b06e991a9e19b1d67442f6f9c247a0549a0dcd540615ac665a40188b03fbf2dfabbf            40554 main/binary-amd64/Packages
+ 89fcd37be67c5fce29114982b0ea8a86a33122df38376e57ac5ded519c64e7917622345f2e807d7c7e2845acad1bad8c70166f0f4be4436324c1ab81e3ecd3a8            12230 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEExpRBkBXYTNvDNv1MDr6vCEIS1moFAmsFw9MACgkQDr6vCEIS
-1mpigQv+P1TM4KYUySSb0/zjD5CfIbWIe6Y8WB4dmToYFcLnOL8TzFUk0za+Nzlg
-mQTBH6yxaC5fqGapk+ljwPK5x+4hegk5brtrdEka90Anw/dtpjJKoqlw2dRdyDnL
-gr399cooZ3SQH9MJS4v3+vaA+wNvr5xu0sB882uPPHeWE8aCTfWyw2vdIJLjz+Ud
-YzQ0ZYhtUSwzPoa9MQfRrtufWZvDqsta7cZUS9Hr8QavbcxZAO+Mhyl/trch5pJX
-XDQudYHYTY18l2lc6ggP56X2kju6VCD8l/37HMmUSS9bkPgV/EtgE1qByu5fC2ux
-pRj/dKmEF9IfCuVZTafhYusyj66Lxtoj9cN8XZlFJlkoD26l24FEtNqZwOw3GmFk
-nIDEoSA/mksu7m/KO54+NOGM+Ef9MK53NKwosJlUE4y5G4bQQRLdbKVaipfOSJmB
-NVJRYrW6GTBl6MeJqRe5Z9whtoOzQ0mmWXpi+FJAh8U1j24l5yMNRQ73ze9MqIc8
-hXw9hYDz
-=pKr9
+iQGzBAEBCAAdFiEExpRBkBXYTNvDNv1MDr6vCEIS1moFAmsGE7wACgkQDr6vCEIS
+1mpytwv8CBNaRjdPZnDh+pKuMcTM4TJznR9IPgv+KD+mToPdzZTe3avFo1p56lVr
+3fInjWcwEpGp7zTd+J08qhoENcw8KDpPsVmwr810MwctLeBIGuzi9slzoVbw1uwA
+1hjpTdGwpFQaAsiPbXEmK10IqBch/gWFkUtYD5ZdlbFzmOwBzbwqm6mNGNzPPqAb
+4JkpfUTx0MI6jP5IhNEDB2ktcxV7YYlY6TVkvEAH2hduBwKVhTHiKzvdtzZafOnS
+STEWzt7ihjeKBvWgOw3Js9Qv2zpWbxFdw856AG1Xg833nDyl5KtNY2mx7ZJjhWgK
+HET1M4H/RCoFjheY685Kl1dUgtfC8X1UH4wthh/hrpaliliJDg8eI9dUbpNVWS6k
+jJOtAbba4TstqpEwjIfT8AYeQjo4LDoxKiDoovb0QF9vEU7VF2jv8b9hJkM3CIbI
+MlwqSaE01oB3w7OdPnZc48elwKBaceZNNNNlkmlFpkm6HcwQQJh6SitFO9s+cBqM
+WnOsVZfL
+=9N+V
 -----END PGP SIGNATURE-----
